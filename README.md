@@ -11,7 +11,7 @@ Install splitting app using pip
 
 ```bash
   pip install flask
-  cd splitapp
+  cd expenseapp
 ```
 
 ## Run 
